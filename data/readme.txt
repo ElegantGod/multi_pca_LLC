@@ -1,0 +1,1 @@
+You should run 'extr_sift' to extract the sift descriptor
